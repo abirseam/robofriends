@@ -1,2 +1,3 @@
 # robofriends
-Simple React App
+Simple React-Redux app
+
